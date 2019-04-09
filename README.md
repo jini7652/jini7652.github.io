@@ -1,4 +1,24 @@
 ## Welcome to GitHub Pages
+많은 사람들이 4차산업혁명이라는 테두리 안에서 인공지능, 머신러닝, 딥러닝이 유행처럼 번지고 있으며 매해 논문들도 헤아릴 수 없을 만큼 다양하게 나오고 있다.
+이런 정보의 홍수 속에서 기본부터 하나씩 기록을 남겨보도록 하겠다.  
+
+### Contents
+
+#### Basics
+
+#### Research
+- [유명 CNN 아키텍처 소개](_posts/2019-04-09-Famous-CNN.md)
+- [LeNet](_posts/2019-04-09-lenet5.md)
+
+#### Papers
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jini7652/jini7652.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,4 +56,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-[Sampledoc](_posts/2019-04-09-Famous-CNN.md)
