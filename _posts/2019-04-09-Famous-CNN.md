@@ -58,6 +58,11 @@ CNN에 대한 이해를 좀 더 깊게 하기 위해 유명 CNN Architecture에 
 |2014|VGGNet(16)   |Simonyan, Zisserman                             |2nd  |7.3%            |138 million       |
 |2015|ResNet(152)  |Kaiming He                                      |1st  |3.6%            |                  |
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 ## ImageNet
 세계 최대의 영상 데이터 베이스이며, 마치 사람이 보고 판단할 수 있는 것처럼 컴퓨터 비전을 연구하는 사람들이 벤치마크로 사용할 수 있는 영상 데이터 베이스이다. 현재 약 22000종으로 분류가 가능한 1500만장의 인터넷 기반의 영상이 확보되어 있다.
