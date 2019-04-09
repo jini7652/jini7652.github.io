@@ -48,14 +48,14 @@ CNN에 대한 이해를 좀 더 깊게 하기 위해 유명 CNN Architecture에 
 \* 참고로 ImageNet과 ILSVRC에 대해 간단히 소개를 하면 다음과 같다.
 
 ### Summary
-year|CNN|Developed by|place|Top-5 error rate| No. of parameter
-----|---|------------|-----|----------------| -----------------
-1998|LeNet(8)|Yann LeCun et al| | | 60 thousand
-2012|AlexNet(7)|Alex Krizhevsky, Geoffrey Hinton, Ilya Sutskever|1st|15.3%|60 million
-2013|ZFNet()|Mathew Zeiler and Rob Fergus|1st|14.8%|
-2014|GoogLeNet(19)|Google|1st|6.67%|4 million
-2014|VGGNet(16)|Simonyan, Zisserman|2nd|7.3%|138 million
-2015|ResNet(152)|Kaiming He|1st|3.6%|
+|year|CNN|Developed by|place|Top-5 error rate| No. of parameter |
+|----|---|------------|-----|----------------| ----------------- |
+|1998|LeNet(8)|Yann LeCun et al| | | 60 thousand |
+|2012|AlexNet(7)|Alex Krizhevsky, Geoffrey Hinton, Ilya Sutskever|1st|15.3%|60 million |
+|2013|ZFNet()|Mathew Zeiler and Rob Fergus|1st|14.8%| |
+|2014|GoogLeNet(19)|Google|1st|6.67%|4 million |
+|2014|VGGNet(16)|Simonyan, Zisserman|2nd|7.3%|138 million |
+|2015|ResNet(152)|Kaiming He|1st|3.6%|  |
 
 
 ## ImageNet
