@@ -1,3 +1,9 @@
+---
+title: "Famous CNN Architecture"
+date: 2019-04-09 10:05:28
+categories: jekyll update
+---
+
 ## 유명 CNN Architecture
 CNN에 대한 이해를 좀 더 깊게 하기 위해 유명 CNN Architecture에 대해 하나씩 살펴보겠다.
 (상세한 설명한 추후에 다루어보도록 하겠다.)
